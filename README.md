@@ -14,9 +14,9 @@ Here are some ideas to get you started:
       There is a project of realizing a graph and creating a Pokemon game using familiar and complex algorithms.
 
 - ✨  My main languages:
-      * Java - graph structures.
-      *  C - Knowledge of the language and use of pointers and access to the whole memory.
-      * Python - knowledge of the language and all its uses.
+      **Java** - graph structures. \n
+      **C** - Knowledge of the language and use of pointers and access to the whole memory.\n
+      **Python** - knowledge of the language and all its uses.\n
 
 - 👯 I'm usually collaborate with up to 4 programmers on projects.
 
