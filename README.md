@@ -8,7 +8,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🌱 I’m currently learning Computer Science and Mathematics Degree (Secound year).
+- 🌱 I’m currently learning Computer Science and Mathematics Degree (Second year).
 
 - 🔭 I am currently working on graph structures and realizing its properties.<br />
       There is a project of realizing a graph and creating a Pokemon game using familiar and complex algorithms.
