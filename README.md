@@ -5,7 +5,8 @@
 <!--
 **TalSchreiber95/TalSchreiber95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
+-->
 
 - 🌱 I’m currently learning Computer Science and Mathematics Degree (Secound year).
 
@@ -22,7 +23,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about any of my projects and repo.
 
 - 📫 How to reach me: Email: talfreestyle@gmail.com , linkedin: will post soon
-
+<!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: None.
 - ⚡ Fun fact: ...
