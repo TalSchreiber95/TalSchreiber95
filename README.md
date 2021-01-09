@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       **Email:** talfreestyle@gmail.com <br />
       **linkedin:** will post soon
       
-      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalSchreiber95)](https://github.com/anuraghazra/github-readme-stats)
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
       
 <!--
 - 🤔 I’m looking for help with ...
