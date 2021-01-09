@@ -25,6 +25,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <br /> 
       **Email:** talfreestyle@gmail.com <br />
       **linkedin:** will post soon
+      
+      [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalSchreiber95)](https://github.com/anuraghazra/github-readme-stats)
+      
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: None.
