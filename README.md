@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about any of my projects and repo.
 
-- 📫 How to reach me: <br /> 
+- 📫 Contact me at: <br /> 
       **Email:** TalSchreiber95@outlook.com <br />
       **linkedin:** [Tal's linkedin:](https://www.linkedin.com/in/tal-schreiber-87aa8b203/) ***linkedin.com/in/tal-schreiber-87aa8b203***
       
