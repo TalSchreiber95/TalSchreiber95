@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: <br /> 
       **Email:** talfreestyle@gmail.com <br />
-      **linkedin:** [Tal's linkedin](linkedin.com/in/tal-schreiber-87aa8b203)
+      **linkedin:** [Tal's linkedin](https://www.linkedin.com/in/tal-schreiber-87aa8b203/)
                         linkedin.com/in/tal-schreiber-87aa8b203
       
 <a href="https://github.com/anuraghazra/github-readme-stats">
