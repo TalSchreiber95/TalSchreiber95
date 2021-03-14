@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 
 - ✨  My main languages: <br />
       **Java** - graph structures.<br />
+      **Python** - knowledge of the language and all its uses.<br />
       **C** - Knowledge of the language and use of pointers and access to the whole memory.<br />
-      **Python** - knowledge of the language and all its uses.
+      **C++** - Full Knowledge of the language and use of pointers and access to the whole memory, classes and objects <br />
+      **SQL** - Knowledge of Databases and operations
 
 - 👯 I'm usually collaborate with up to 4 programmers on projects.
 
