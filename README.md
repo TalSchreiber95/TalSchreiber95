@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 Contact me at: <br /> 
       **Email:** TalSchreiber95@outlook.com <br />
-      **linkedin:** [Tal's linkedin:](https://www.linkedin.com/in/tal-schreiber-87aa8b203/) ***linkedin.com/in/tal-schreiber-87aa8b203***
+      **linkedin:** [Tal's linkedin:](https://www.linkedin.com/in/tal-schreiber) ***www.linkedin.com/in/tal-schreiber***
       
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalSchreiber95&theme=slateorange&layout=compact" />
