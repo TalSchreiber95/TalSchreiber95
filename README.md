@@ -1,6 +1,7 @@
 ![alt text](https://directadmissiononline.com/wp-content/uploads/2018/09/computer-science-header.jpg)
-
+<style: backgroundColor='red'>
 ### Hi there! 👋
+<style/>
 
 <!--
 **TalSchreiber95/TalSchreiber95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +19,7 @@ Here are some ideas to get you started:
       **Python** - knowledge of the language and all its uses.<br />
       **C** - Knowledge of the language and use of pointers and access to the whole memory.<br />
       **C++** - Full Knowledge of the language and use of pointers and access to the whole memory, classes and objects <br />
+      **Web** - web languages skills such as html,css,JavaScript,ReactJs,React Native etc...<br/>
       **SQL** - Knowledge of Databases and operations
 
 - 👯 I'm usually collaborate with up to 4 programmers on projects.
