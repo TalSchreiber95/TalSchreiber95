@@ -1,10 +1,6 @@
 ![alt text](https://directadmissiononline.com/wp-content/uploads/2018/09/computer-science-header.jpg)
 <br/>
-```css
-<style: backgroundColor='red'>
-### Hi there! 👋
-<style/>
-```
+# Hi there! 👋
 <!--
 **TalSchreiber95/TalSchreiber95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
