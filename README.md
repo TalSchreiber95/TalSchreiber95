@@ -1,4 +1,6 @@
 ![alt text](https://directadmissiononline.com/wp-content/uploads/2018/09/computer-science-header.jpg)
+<br/>
+```css
 <style: backgroundColor='red'>
 ### Hi there! 👋
 <style/>
