@@ -9,16 +9,16 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Computer Science and Mathematics Degree (Third year).
 
-- 🔭 I am currently working on graph structures and realizing its properties.<br />
-      There is a project of realizing a graph and creating a Pokemon game using familiar and complex algorithms.
-
+- 🔭 I am currently working at Aman Group as a Full-stack developer.<br />
+Click on the icon
+<a href="https://www.aman.co.il/" target="Aman Group"> <img src="https://www.linkpicture.com/q/590ad5b0-73b5-4cf3-8962-3bb612b86f41.png" alt="Aman Group" width="40" height="20"/>  </a> to see my company website
 - ✨  My main languages: <br />
+      **Web** - web languages skills such as html,css,JavaScript,ReactJs,React Native etc...<br/>
       **Java** - graph structures.<br />
       **Python** - knowledge of the language and all its uses.<br />
       **C** - Knowledge of the language and use of pointers and access to the whole memory.<br />
       **C++** - Full Knowledge of the language and use of pointers and access to the whole memory, classes and objects <br />
-      **Web** - web languages skills such as html,css,JavaScript,ReactJs,React Native etc...<br/>
-      **SQL** - Knowledge of Databases and operations
+      **SQL&NoSQL** - Knowledge of Databases and operations
 
 - 👯 I'm usually collaborate with up to 4 programmers on projects.
 
