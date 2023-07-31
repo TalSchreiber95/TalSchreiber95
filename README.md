@@ -1,4 +1,4 @@
-![alt text](https://directadmissiononline.com/wp-content/uploads/2018/09/computer-science-header.jpg)
+![alt text](https://www.forsyth.k12.ga.us/cms/lib/GA01000373/Centricity/Domain/5061/computer-science-header.jpg)
 <br/>
 # Hi there! 👋
 <!--
