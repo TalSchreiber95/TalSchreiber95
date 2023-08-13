@@ -77,7 +77,9 @@ Click on the icon
 </p>
 
 <h3 align="center"> 📫 Contact Me:
-
+     <a href="https://www.linkedin.com/in/tal-schreiber/overlay/1635536703157/single-media-viewer/?profileId=ACoAADPzfx4B_twzHlREMZtAYROe3PDhNFViwaA">
+ <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLzLLIFeL8t0eCjGrwnLnanGABCSI-LFKrQ&usqp=CAU" />
+          
 <p align="center"> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tal-schreiber
@@ -93,7 +95,7 @@ Click on the icon
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TalSchreiber95&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
 </a>
 
-      
+
 <!--
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: None.
