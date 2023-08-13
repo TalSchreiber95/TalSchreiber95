@@ -12,7 +12,7 @@
 Here are some ideas to get you started: 
 -->
 
-- 🎓 Computer Science graduate at Ariel University.
+- 🎓 Computer Science and Mathematics Graduate at Ariel University.
 
 - 🔭 I am currently working at Aman Group as a Full-stack developer.<br />
 Click on the icon
