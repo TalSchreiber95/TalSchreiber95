@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🎓 Computer Science and Mathematics Graduate at Ariel University.
 
-- 🔭 I am currently working at <a href="https://www.aman.co.il/" target="Aman"> <img src="https://www.linkpicture.com/q/590ad5b0-73b5-4cf3-8962-3bb612b86f41.png" alt="Aman" width="40" height="20"/>  </a> Group as a Full-stack developer.<br />
+- 🔭 I am currently working at <a href="https://www.aman.co.il/" target="Aman"> <img src="https://raw.githubusercontent.com/TalSchreiber95/TalSchreiber95/main/AmanIcon.jpg" alt="Aman" width="40" height="20"/>  </a> Group as a Full-stack developer.<br />
 
 - 👯 I usually collaborate with at least 10 programmers on projects.
 
