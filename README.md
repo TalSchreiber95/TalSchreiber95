@@ -3,8 +3,8 @@
 
 # Hi there! 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=TalSchreiber95.TalSchreiber95)
-[![Github](https://img.shields.io/github/followers/TalSchreiber95?label=Followers&style=social)](https://github.com/TalSchreiber95)
-[![GitHub stars](https://img.shields.io/github/stars/TalSchreiber95?label=Stars&style=social)](https://github.com/TalSchreiber95)
+[![Github](https://img.shields.io/github/followers/TalSchreiber95?label=Followers&style=social)](https://github.com/TalSchreiber95?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/TalSchreiber95?label=Stars&style=social)](https://github.com/TalSchreiber95?tab=stars)
 
 <!--
 **TalSchreiber95/TalSchreiber95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -137,7 +137,7 @@ Here are some ideas to get you started:
 <h3 align="center"> 📫 Contact Me:
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/tal-schreiber/overlay/1635536703157/single-media-viewer/?profileId=ACoAADPzfx4B_twzHlREMZtAYROe3PDhNFViwaA" target="_blank">
+<a href="https://www.linkedin.com/in/tal-schreiber/overlay/1635540319848/single-media-viewer/?profileId=ACoAADPzfx4B_twzHlREMZtAYROe3PDhNFViwaA" target="_blank">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROLzLLIFeL8t0eCjGrwnLnanGABCSI-LFKrQ&usqp=CAU" alt="Profile Image" width="100" />
 </a>
 
